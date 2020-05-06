@@ -7,9 +7,15 @@ First, run `download.pl`, then `test_packages.pl`. From then on, everything will
 Needs `pdflatex`, `wget`, `unzip`, `zipinfo` and the following packages:
 
 > LWP::Simple;
+
 > Data::Dumper;
+
 > Digest::MD5 qw/md5_hex/;
+
 > Smart::Comments;
+
 > Term::ANSIColor;
+
 > File::Touch;
+
 > File::Basename;
