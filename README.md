@@ -4,18 +4,18 @@ This downloads all sorts of packages from CTAN and then tests if it can compile 
 
 First, run `download.pl`, then `test_packages.pl`. From then on, everything will be done automatically.
 
-Needs `pdflatex`, `wget`, `unzip`, `zipinfo` and the following packages:
+Needs `pdflatex`, `wget`, `unzip`, `zipinfo` and the following perl packages:
 
-> LWP::Simple;
+> LWP::Simple
 
-> Data::Dumper;
+> Data::Dumper
 
-> Digest::MD5 qw/md5_hex/;
+> Digest::MD5
 
-> Smart::Comments;
+> Smart::Comments
 
-> Term::ANSIColor;
+> Term::ANSIColor
 
-> File::Touch;
+> File::Touch
 
-> File::Basename;
+> File::Basename
