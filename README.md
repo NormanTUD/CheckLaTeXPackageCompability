@@ -22,7 +22,7 @@ Needs `pdflatex`, `wget`, `unzip`, `zipinfo` and the following perl packages:
 
 # Incompatible modules
 
-The following modules were found to be incompatible, though this list is in no way exhaustive (only tested about 2% of all possible combinations!).2% of all possible combinations!).
+The following modules were found to be incompatible, though this list is in no way exhaustive (only tested about 2% of all possible combinations!).
 
 abnt-etoolbox
 
